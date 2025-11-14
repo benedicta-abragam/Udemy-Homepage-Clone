@@ -58,5 +58,5 @@ The webpage will open in your browser
 
 This project is inspired by the design of Udemy.com, recreated for learning purposes only.
 
-Thank you for visiting my pages.
+Thank you for visiting my page.
 
